@@ -1,0 +1,124 @@
+﻿stock_pool,ticker,company_name,cusip,cusip8,security_name_evidence,first_report_date,last_report_date,matched_holding_rows,matched_etf_count,resolution_method,resolution_confidence,source,record_status
+NASDAQ100,AAPL,Apple Inc.,037833100,03783310,Apple Inc || Apple Inc.,2020-04-30,2024-10-31,11,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,ABNB,"Airbnb, Inc.",009066101,00906610,"Airbnb Inc || Airbnb, Inc.",2021-09-30,2024-10-31,25,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,ADBE,ADOBE INC.,00724F101,00724F10,"Adobe Inc || Adobe Inc. || Adobe, Inc.",2019-09-30,2024-10-31,68,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,ADI,ANALOG DEVICES INC,032654105,03265410,"ANALOG DEVICES INC || Analog Devices Inc || Analog Devices, Inc.",2019-09-30,2024-10-31,57,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,ADP,AUTOMATIC DATA PROCESSING INC,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,ADSK,"Autodesk, Inc.",052769106,05276910,"AUTODESK, INC. || Autodesk Inc || Autodesk, Inc.",2019-09-30,2024-10-31,47,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,AEP,AMERICAN ELECTRIC POWER CO INC,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,ALGN,ALIGN TECHNOLOGY INC,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,AMAT,APPLIED MATERIALS INC /DE,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,AMD,ADVANCED MICRO DEVICES INC,007903107,00790310,"ADVANCED MICRO DEVICES INC || Advanced Micro Devices Inc || Advanced Micro Devices, Inc.",2019-09-30,2024-10-31,47,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,AMGN,AMGEN INC,031162100,03116210,"Amgen Inc || Amgen Inc. || Amgen, Inc.",2019-09-30,2024-10-31,88,5,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,AMZN,AMAZON COM INC,023135106,02313510,"Amazon.com Inc || Amazon.com, Inc.",2019-09-30,2024-10-31,75,5,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,ANSS,"Ansys, Inc.",03662Q105,03662Q10,"ANSYS Inc || ANSYS, Inc.",2019-09-30,2024-10-31,40,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,ASML,ASML HOLDING NV,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,AVGO,Broadcom Inc.,11135F101,11135F10,"BROADCOM INC || Broadcom Inc || Broadcom Inc. || Broadcom, Inc.",2019-09-30,2024-10-31,57,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,AZN,ASTRAZENECA PLC,046353108,04635310,AstraZeneca PLC,2020-12-31,2021-03-31,2,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,BIDU,"Baidu, Inc.",056752108,05675210,"BAIDU, INC. || Baidu Inc || Baidu, Inc.",2019-10-31,2024-10-31,43,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,BIDU,"Baidu, Inc.",G07034104,G0703410,"BAIDU, INC.",2022-08-31,2024-08-31,9,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,BIIB,BIOGEN INC.,09062X103,09062X10,"Biogen Inc || Biogen Inc. || Biogen, Inc.",2019-09-30,2024-10-31,84,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,BKNG,Booking Holdings Inc.,09857L108,09857L10,"Booking Holdings Inc || Booking Holdings Inc. || Booking Holdings, Inc.",2019-10-31,2024-10-31,23,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,BKR,Baker Hughes Co,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,CCEP,COCA-COLA EUROPACIFIC PARTNERS plc,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,CDNS,CADENCE DESIGN SYSTEMS INC,127387108,12738710,"CADENCE DESIGN SYSTEMS INC || CADENCE DESIGN SYSTEMS, INC. || Cadence Design Systems Inc || Cadence Design Systems, Inc.",2019-09-30,2024-10-31,63,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,CDW,CDW Corp,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,CEG,Constellation Energy Corp,21037T109,21037T10,Constellation Energy Corp,2022-03-31,2024-09-30,11,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,CERN,Cerner Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,CHKP,CHECK POINT SOFTWARE TECHNOLOGIES LTD,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,CHTR,"CHARTER COMMUNICATIONS, INC. /MO/",,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,CMCSA,COMCAST CORP,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,COST,COSTCO WHOLESALE CORP /NEW,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,CPRT,COPART INC,217204106,21720410,Copart Inc,2024-09-30,2024-09-30,1,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,CRWD,"CrowdStrike Holdings, Inc.",22788C105,22788C10,"Crowdstrike Holdings Inc || Crowdstrike Holdings, Inc.",2019-09-30,2024-10-31,93,5,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,CSCO,"CISCO SYSTEMS, INC.",17275R102,17275R10,Cisco Systems Inc,2019-09-30,2024-09-30,91,5,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,CSGP,"COSTAR GROUP, INC.",22160N109,22160N10,"CoStar Group, Inc.",2019-10-31,2024-10-31,21,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,CSX,CSX CORP,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,CTAS,CINTAS CORP,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,CTSH,COGNIZANT TECHNOLOGY SOLUTIONS CORP,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,DASH,"DoorDash, Inc.",25809K105,25809K10,"DoorDash Inc || DoorDash, Inc.",2022-12-30,2024-10-31,16,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,DDOG,"Datadog, Inc.",23804L103,23804L10,"Datadog Inc || Datadog, Inc.",2020-09-30,2024-10-31,54,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,DLTR,"DOLLAR TREE, INC.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,DOCU,"DOCUSIGN, INC.",256163106,25616310,"DocuSign Inc || DocuSign, Inc.",2019-09-30,2024-10-31,90,5,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,DXCM,DEXCOM INC,252131107,25213110,"DEXCOM, INC. || DexCom Inc || Dexcom Inc",2019-09-30,2024-09-30,21,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,EA,ELECTRONIC ARTS INC.,285512109,28551210,"Electronic Arts Inc || Electronic Arts, Inc.",2019-09-30,2024-09-30,21,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,EBAY,EBAY INC,278642103,27864210,"eBay Inc || eBay Inc. || eBay, Inc.",2019-09-30,2024-10-31,43,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,ENPH,"Enphase Energy, Inc.",29355A107,29355A10,"Enphase Energy Inc || Enphase Energy, Inc.",2019-09-30,2024-10-31,127,6,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,EXC,EXELON CORP,30161N101,30161N10,EXELON CORP || Exelon Corp,2019-09-30,2021-12-31,10,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,FANG,"Diamondback Energy, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,FAST,FASTENAL CO,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,FOX,Fox Corp,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,FOXA,Fox Corp,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,FTNT,"Fortinet, Inc.",34959E109,34959E10,"Fortinet Inc || Fortinet, Inc.",2019-09-30,2024-09-30,66,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,GEHC,GE HealthCare Technologies Inc.,36266G107,36266G10,GE HEALTHCARE TECHNOLOGIES INC.,2023-03-31,2024-09-30,7,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,GFS,GLOBALFOUNDRIES Inc.,G39387108,G3938710,"GLOBALFOUNDRIES Inc. || GLOBALFOUNDRIES, Inc.",2022-07-31,2023-01-31,3,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,GILD,"GILEAD SCIENCES, INC.",375558103,37555810,"Gilead Sciences Inc || Gilead Sciences, Inc.",2019-09-30,2024-09-30,82,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,GOOG,Alphabet Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,GOOGL,Alphabet Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,HON,HONEYWELL INTERNATIONAL INC,438516106,43851610,"Honeywell International Inc || Honeywell International Inc. || Honeywell International, Inc.",2019-09-30,2024-10-31,44,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,IDXX,IDEXX LABORATORIES INC /DE,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,ILMN,"ILLUMINA, INC.",452327109,45232710,"ILLUMINA, INC. || Illumina Inc || Illumina, Inc.",2019-09-30,2024-10-31,76,5,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,INCY,INCYTE CORP,45337C102,45337C10,Incyte Corp || Incyte Corp.,2019-09-30,2024-10-31,93,5,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,INTC,INTEL CORP,458140100,45814010,INTEL CORP || Intel Corp || Intel Corp.,2019-09-30,2024-09-30,32,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,INTU,INTUIT INC.,461202103,46120210,"Intuit Inc || Intuit, Inc.",2019-09-30,2024-09-30,43,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,ISRG,INTUITIVE SURGICAL INC,46120E602,46120E60,"INTUITIVE SURGICAL, INC. || Intuitive Surgical Inc",2019-09-30,2024-10-31,61,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,JD,"JD.com, Inc.",47215P106,47215P10,"JD.COM, INC. || JD.Com, Inc. || JD.com Inc || JD.com, Inc.",2019-10-31,2024-10-31,42,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,KDP,Keurig Dr Pepper Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,KHC,Kraft Heinz Co,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,KLAC,KLA CORP,482480100,48248010,KLA Corp || KLA Corp.,2019-12-31,2024-10-31,40,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,LCID,"Lucid Group, Inc.",549498103,54949810,"LUCID GROUP INC || LUCID GROUP, INC. || Lucid Group Inc || Lucid Group Inc. || Lucid Group, Inc || Lucid Group, Inc.",2021-09-30,2024-10-31,44,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,LRCX,LAM RESEARCH CORP,512807108,51280710,LAM RESEARCH CORP || Lam Research Corp || Lam Research Corp.,2019-09-30,2024-09-30,38,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,LRCX,LAM RESEARCH CORP,512807306,51280730,Lam Research Corp.,2024-10-31,2024-10-31,1,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,LULU,lululemon athletica inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,MAR,MARRIOTT INTERNATIONAL INC /MD/,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,MCHP,MICROCHIP TECHNOLOGY INC,595017104,59501710,"MICROCHIP TECHNOLOGY INC || MICROCHIP TECHNOLOGY INCORPORATED || Microchip Technology Inc || Microchip Technology Inc. || Microchip Technology, Inc.",2019-09-30,2024-10-31,59,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,MDB,"MongoDB, Inc.",60937P106,60937P10,MongoDB Inc,2019-09-30,2024-09-30,22,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,MDLZ,"Mondelez International, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,MELI,MERCADOLIBRE INC,58733R102,58733R10,"MERCADOLIBRE INC || MERCADOLIBRE, INC. || MercadoLibre Inc || MercadoLibre, Inc.",2019-10-31,2024-10-31,57,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,META,"Meta Platforms, Inc.",30303M102,30303M10,"Meta Platforms Inc || Meta Platforms, Inc.",2021-10-29,2024-10-31,33,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,MNST,Monster Beverage Corp,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,MRNA,"Moderna, Inc.",60770K107,60770K10,"Moderna Inc || Moderna, Inc.",2019-12-31,2024-10-31,65,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,MRVL,"Marvell Technology, Inc.",573874104,57387410,"Marvell Technology Inc || Marvell Technology, Inc.",2021-04-30,2024-09-30,17,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,MSFT,MICROSOFT CORP,594918104,59491810,Microsoft Corp || Microsoft Corp.,2019-09-30,2024-10-31,61,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,MTCH,"Match Group, Inc.",57665R106,57665R10,"Match Group, Inc.",2019-10-31,2020-04-30,3,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,MTCH,"Match Group, Inc.",57667L107,57667L10,Match Group Inc,2020-09-30,2024-03-31,16,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,MU,MICRON TECHNOLOGY INC,595112103,59511210,"MICRON TECHNOLOGY INC || Micron Technology Inc || Micron Technology, Inc.",2019-09-30,2024-10-31,39,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,NFLX,NETFLIX INC,64110L106,64110L10,"Netflix Inc || Netflix, Inc.",2019-09-30,2024-10-31,49,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,NTES,"NetEase, Inc.",64110W102,64110W10,"NETEASE, INC. || NetEase, Inc.",2019-10-31,2024-10-31,30,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,NVDA,NVIDIA CORP,67066G104,67066G10,NVIDIA CORP || NVIDIA CORPORATION || NVIDIA Corp || NVIDIA Corp.,2019-09-30,2024-10-31,119,7,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,NXPI,NXP Semiconductors N.V.,N6596X109,N6596X10,NXP Semiconductors N.V.,2020-01-31,2024-10-31,16,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,ODFL,"OLD DOMINION FREIGHT LINE, INC.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,ON,ON SEMICONDUCTOR CORP,682189105,68218910,ON SEMICONDUCTOR CORP || ON Semiconductor Corp || ON Semiconductor Corp.,2019-09-30,2024-09-30,58,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,ORLY,O REILLY AUTOMOTIVE INC,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,PANW,Palo Alto Networks Inc,697435105,69743510,"Palo Alto Networks Inc || Palo Alto Networks, Inc.",2019-09-30,2024-09-30,85,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,PAYX,PAYCHEX INC,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,PCAR,PACCAR INC,693718108,69371810,PACCAR Inc,2021-01-29,2021-07-30,3,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,PDD,PDD Holdings Inc.,722304102,72230410,PDD Holdings Inc.,2023-02-28,2024-08-31,7,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,PEP,PEPSICO INC,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,PYPL,"PayPal Holdings, Inc.",70450Y103,70450Y10,"PayPal Holdings Inc || PayPal Holdings, Inc.",2019-09-30,2024-10-31,44,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,QCOM,QUALCOMM INC/DE,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,REGN,"REGENERON PHARMACEUTICALS, INC.",75886F107,75886F10,"Regeneron Pharmaceuticals Inc || Regeneron Pharmaceuticals, Inc.",2019-09-30,2024-10-31,96,5,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,ROP,ROPER TECHNOLOGIES INC,776696106,77669610,"Roper Technologies Inc || Roper Technologies, Inc.",2019-10-31,2024-10-31,52,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,ROST,"ROSS STORES, INC.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,SBUX,STARBUCKS CORP,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,SGEN,Seagen Inc.,81181C104,81181C10,"Seagen Inc || Seagen, Inc.",2020-12-31,2023-09-30,39,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,SIRI,SIRIUS XM HOLDINGS INC.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,SNPS,SYNOPSYS INC,871607107,87160710,"Synopsys Inc || Synopsys, Inc.",2019-09-30,2024-10-31,57,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,SPLK,Splunk Inc.,848637104,84863710,"Splunk Inc || Splunk, Inc.",2019-09-30,2023-12-31,86,6,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,SWKS,"SKYWORKS SOLUTIONS, INC.",83088M102,83088M10,"SKYWORKS SOLUTIONS INC || Skyworks Solutions Inc || Skyworks Solutions, Inc.",2019-09-30,2024-10-31,33,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,TCOM,Trip.com Group Ltd,89677Q107,89677Q10,TRIP.COM GROUP LIMITED || Trip.com Group Limited || Trip.com Group Ltd.,2020-01-31,2024-10-31,29,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,TEAM,Atlassian Corp,049468101,04946810,Atlassian Corp || Atlassian Corp.,2022-12-30,2024-09-30,23,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,TMUS,"T-Mobile US, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,TSLA,"Tesla, Inc.",88160R101,88160R10,"TESLA INC || TESLA, INC. || Tesla Inc || Tesla, Inc.",2019-09-30,2024-10-31,152,8,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,TTD,"Trade Desk, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,874054109,87405410,"Take-Two Interactive Software Inc || Take-Two Interactive Software, Inc.",2019-09-30,2024-09-30,21,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,TXN,TEXAS INSTRUMENTS INC,882508104,88250810,"TEXAS INSTRUMENTS INC || Texas Instruments Inc || Texas Instruments Inc. || Texas Instruments, Inc.",2019-09-30,2024-10-31,48,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,VRSK,"Verisk Analytics, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,VRSN,VERISIGN INC/CA,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,VRTX,VERTEX PHARMACEUTICALS INC / MA,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,WBA,"Walgreens Boots Alliance, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,WBD,"Warner Bros. Discovery, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,WDAY,"Workday, Inc.",98138H101,98138H10,"Workday Inc || Workday, Inc.",2019-09-30,2024-09-30,64,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+NASDAQ100,XEL,XCEL ENERGY INC,,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,ZM,"Zoom Communications, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+NASDAQ100,ZS,"Zscaler, Inc.",98980G102,98980G10,"Zscaler Inc || Zscaler, Inc.",2019-09-30,2024-09-30,89,5,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip

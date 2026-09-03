@@ -1,0 +1,112 @@
+﻿stock_pool,ticker,company_name,cusip,cusip8,security_name_evidence,first_report_date,last_report_date,matched_holding_rows,matched_etf_count,resolution_method,resolution_confidence,source,record_status
+CMIN-US,AAPL,Apple Inc.,037833100,03783310,Apple Inc || Apple Inc.,2020-04-30,2024-10-31,11,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,ABBV,AbbVie Inc.,00287Y109,00287Y10,"AbbVie Inc || AbbVie, Inc.",2019-09-30,2024-09-30,23,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,ABT,Abbott Laboratories,002824100,00282410,ABBOTT LABORATORIES || Abbott Laboratories,2019-09-30,2024-09-30,22,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,ACN,Accenture plc,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,ADBE,Adobe Inc.,00724F101,00724F10,"Adobe Inc || Adobe Inc. || Adobe, Inc.",2019-09-30,2024-10-31,68,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,ADP,"Automatic Data Processing, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,AEP,"American Electric Power Company, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,AMT,American Tower Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,AMZN,"Amazon.com, Inc.",023135106,02313510,"Amazon.com Inc || Amazon.com, Inc.",2019-09-30,2024-10-31,75,5,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,APD,"Air Products and Chemicals, Inc.",009158106,00915810,"Air Products and Chemicals, Inc.",2019-10-31,2021-04-30,7,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,ASML,ASML Holding N.V.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,AVGO,Broadcom Inc.,11135F101,11135F10,"BROADCOM INC || Broadcom Inc || Broadcom Inc. || Broadcom, Inc.",2019-09-30,2024-10-31,57,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,AWK,"American Water Works Company, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,BA,The Boeing Company,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,BABA,Alibaba Group Holding Limited,01609W102,01609W10,ALIBABA GROUP HOLDING LIMITED || Alibaba Group Holding Ltd || Alibaba Group Holding Ltd.,2019-09-30,2024-10-31,48,5,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,BAC,Bank of America Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,BBL,BHP Group,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,BHP,BHP Group,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,BP,BP p.l.c.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,BRK-A,Berkshire Hathaway Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,C-PJ,Citigroup Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,CAT,Caterpillar Inc.,149123101,14912310,Caterpillar Inc,2020-04-30,2024-10-31,19,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,CCI,Crown Castle International Corp.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,CHTR,"Charter Communications, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,CMCSA,Comcast Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,COP,ConocoPhillips,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,COST,Costco Wholesale Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,CSCO,"Cisco Systems, Inc.",17275R102,17275R10,Cisco Systems Inc,2019-09-30,2024-09-30,91,5,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,CTA-PB,E. I. du Pont de Nemours and Company,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,CVX,Chevron Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,D,"Dominion Energy, Inc.",25746U109,25746U10,DOMINION ENERGY INC || Dominion Energy Inc,2019-09-30,2022-12-31,14,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,DE,Deere & Company,244199105,24419910,DEERE & COMPANY,2019-10-31,2024-10-31,21,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,DEO,Diageo plc,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,DHR,Danaher Corporation,235851102,23585110,Danaher Corp || Danaher Corp.,2019-09-30,2024-04-30,51,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,DIS,The Walt Disney Company,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,DLR,"Digital Realty Trust, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,DUK,Duke Energy Corporation,26441C204,26441C20,DUKE ENERGY CORP || Duke Energy Corp,2019-09-30,2022-06-30,12,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,ECL,Ecolab Inc.,278865100,27886510,"Ecolab Inc. || Ecolab, Inc.",2019-10-31,2024-10-31,51,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,EL,The Estée Lauder Companies Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,ENB,Enbridge Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,EQIX,"Equinix, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,EQNR,Equinor ASA,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,EXC,Exelon Corporation,30161N101,30161N10,EXELON CORP || Exelon Corp,2019-09-30,2021-12-31,10,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,FB,"Meta Platforms, Inc.",30303M102,30303M10,"Meta Platforms Inc || Meta Platforms, Inc.",2021-10-29,2024-10-31,33,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,FCX,Freeport-McMoRan Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,GE,General Electric Company,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,GOOG,Alphabet Inc.,02079K107,02079K10,"Alphabet Inc || Alphabet Inc. || Alphabet, Inc.",2019-09-30,2024-10-31,62,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,GOOG,Alphabet Inc.,02079K305,02079K30,Alphabet Inc,2019-09-30,2024-09-30,45,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,HD,"The Home Depot, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,HON,Honeywell International Inc.,438516106,43851610,"Honeywell International Inc || Honeywell International Inc. || Honeywell International, Inc.",2019-09-30,2024-10-31,44,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,JD,"JD.com, Inc.",47215P106,47215P10,"JD.COM, INC. || JD.Com, Inc. || JD.com Inc || JD.com, Inc.",2019-10-31,2024-10-31,42,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,JNJ,Johnson & Johnson,478160104,47816010,Johnson & Johnson,2020-01-31,2020-01-31,1,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,JPM,JPMorgan Chase & Co,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,KO,The Coca-Cola Company,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,LLY,Eli Lilly and Company,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,LOW,"Lowe's Companies, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,MA,Mastercard Incorporated,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,MCD,McDonald's Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,MMM,3M Company,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,MS,Morgan Stanley,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,MSFT,Microsoft Corporation,594918104,59491810,Microsoft Corp || Microsoft Corp.,2019-09-30,2024-10-31,61,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,NEE,"NextEra Energy, Inc.",65339F101,65339F10,NextEra Energy Inc,2021-06-30,2024-09-30,14,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,NEM,Newmont Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,NFLX,"Netflix, Inc.",64110L106,64110L10,"Netflix Inc || Netflix, Inc.",2019-09-30,2024-10-31,49,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,NGG,National Grid plc,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,NKE,"NIKE, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,NVDA,NVIDIA Corporation,67066G104,67066G10,NVIDIA CORP || NVIDIA CORPORATION || NVIDIA Corp || NVIDIA Corp.,2019-09-30,2024-10-31,119,7,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,NVO,Novo Nordisk A/S,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,NVS,Novartis AG,66987V109,66987V10,Novartis AG,2020-10-30,2021-07-30,4,1,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,O,Realty Income Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,ORCL,Oracle Corporation,68389X105,68389X10,Oracle Corp || Oracle Corp.,2019-09-30,2024-09-30,65,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,PEP,"PepsiCo, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,PFE,Pfizer Inc.,717081103,71708110,"Pfizer Inc || Pfizer, Inc.",2020-01-31,2024-01-31,11,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,PG,The Procter & Gamble Company,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,PLD,"Prologis, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,PM,Philip Morris International Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,PSA,Public Storage,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,PTR,PetroChina Company Limited,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,PYPL,"PayPal Holdings, Inc.",70450Y103,70450Y10,"PayPal Holdings Inc || PayPal Holdings, Inc.",2019-09-30,2024-10-31,44,3,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,RDS-B,Royal Dutch Shell plc,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,RIO,Rio Tinto Group,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,RTX,Raytheon Technologies Corporation,75513E101,75513E10,Raytheon Technologies Corp || Raytheon Technologies Corp.,2020-04-30,2023-06-30,26,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,SBAC,SBA Communications Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,SBUX,Starbucks Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,SCHW,The Charles Schwab Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,SHW,The Sherwin-Williams Company,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,SNAP,Snap Inc.,83304A106,83304A10,"Snap Inc || Snap Inc. || Snap, Inc.",2019-09-30,2024-10-31,71,4,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,SNP,China Petroleum & Chemical Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,SO,The Southern Company,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,SPG-PJ,"Simon Property Group, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,SRE,Sempra,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,T,AT&T Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,TGT,Target Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,TM,Toyota Motor Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,TMO,Thermo Fisher Scientific Inc.,883556102,88355610,THERMO FISHER SCIENTIFIC INC. || Thermo Fisher Scientific Inc,2019-09-30,2023-06-30,19,2,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,TMUS,"T-Mobile US, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,TSLA,"Tesla, Inc.",88160R101,88160R10,"TESLA INC || TESLA, INC. || Tesla Inc || Tesla, Inc.",2019-09-30,2024-10-31,152,8,cusip_from_etf_holdings_name_exact,high,ETF_Holdings.csv,resolved_cusip
+CMIN-US,TSM,Taiwan Semiconductor Manufacturing Company Limited,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,TTE,TotalEnergies SE,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,UL,Unilever PLC,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,UNH,UnitedHealth Group Incorporated,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,UNP,Union Pacific Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,UPS,"United Parcel Service, Inc.",,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,V,Visa Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,VALE,Vale S.A.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,VZ,Verizon Communications Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,WELL,Welltower Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,WFC-PL,Wells Fargo & Company,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,WMT,Walmart Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,XEL,Xcel Energy Inc.,,,,,,0,0,,,target_stock_universe,no_cusip_found
+CMIN-US,XOM,Exxon Mobil Corporation,,,,,,0,0,,,target_stock_universe,no_cusip_found
