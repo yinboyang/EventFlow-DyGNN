@@ -1,0 +1,111 @@
+﻿canonical_stock_id,ticker,name,exchange,valid_from,valid_to,source,mapping_status
+CMIN-US:AAPL,AAPL,Apple Inc.,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:ABBV,ABBV,AbbVie Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:ABT,ABT,Abbott Laboratories,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:ACN,ACN,Accenture plc,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:ADBE,ADBE,Adobe Inc.,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:ADP,ADP,"Automatic Data Processing, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:AEP,AEP,"American Electric Power Company, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:AMT,AMT,American Tower Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:AMZN,AMZN,"Amazon.com, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:APD,APD,"Air Products and Chemicals, Inc.",NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:ASML,ASML,ASML Holding N.V.,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:AVGO,AVGO,Broadcom Inc.,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:AWK,AWK,"American Water Works Company, Inc.",NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:BA,BA,The Boeing Company,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:BABA,BABA,Alibaba Group Holding Limited,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:BAC,BAC,Bank of America Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:BBL,BBL,BHP Group,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:BHP,BHP,BHP Group,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:BP,BP,BP p.l.c.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:BRK-A,BRK-A,Berkshire Hathaway Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:C-PJ,C-PJ,Citigroup Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:CAT,CAT,Caterpillar Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:CCI,CCI,Crown Castle International Corp.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:CHTR,CHTR,"Charter Communications, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:CMCSA,CMCSA,Comcast Corporation,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:COP,COP,ConocoPhillips,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:COST,COST,Costco Wholesale Corporation,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:CSCO,CSCO,"Cisco Systems, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:CTA-PB,CTA-PB,E. I. du Pont de Nemours and Company,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:CVX,CVX,Chevron Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:D,D,"Dominion Energy, Inc.",NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:DE,DE,Deere & Company,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:DEO,DEO,Diageo plc,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:DHR,DHR,Danaher Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:DIS,DIS,The Walt Disney Company,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:DLR,DLR,"Digital Realty Trust, Inc.",NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:DUK,DUK,Duke Energy Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:ECL,ECL,Ecolab Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:EL,EL,The Estée Lauder Companies Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:ENB,ENB,Enbridge Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:EQIX,EQIX,"Equinix, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:EQNR,EQNR,Equinor ASA,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:EXC,EXC,Exelon Corporation,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:FB,FB,"Meta Platforms, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:FCX,FCX,Freeport-McMoRan Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:GE,GE,General Electric Company,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:GOOG,GOOG,Alphabet Inc.,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:HD,HD,"The Home Depot, Inc.",NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:HON,HON,Honeywell International Inc.,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:JD,JD,"JD.com, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:JNJ,JNJ,Johnson & Johnson,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:JPM,JPM,JPMorgan Chase & Co,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:KO,KO,The Coca-Cola Company,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:LLY,LLY,Eli Lilly and Company,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:LOW,LOW,"Lowe's Companies, Inc.",NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:MA,MA,Mastercard Incorporated,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:MCD,MCD,McDonald's Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:MMM,MMM,3M Company,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:MS,MS,Morgan Stanley,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:MSFT,MSFT,Microsoft Corporation,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:NEE,NEE,"NextEra Energy, Inc.",NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:NEM,NEM,Newmont Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:NFLX,NFLX,"Netflix, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:NGG,NGG,National Grid plc,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:NKE,NKE,"NIKE, Inc.",NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:NVDA,NVDA,NVIDIA Corporation,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:NVO,NVO,Novo Nordisk A/S,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:NVS,NVS,Novartis AG,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:O,O,Realty Income Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:ORCL,ORCL,Oracle Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:PEP,PEP,"PepsiCo, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:PFE,PFE,Pfizer Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:PG,PG,The Procter & Gamble Company,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:PLD,PLD,"Prologis, Inc.",NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:PM,PM,Philip Morris International Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:PSA,PSA,Public Storage,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:PTR,PTR,PetroChina Company Limited,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:PYPL,PYPL,"PayPal Holdings, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:RDS-B,RDS-B,Royal Dutch Shell plc,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:RIO,RIO,Rio Tinto Group,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:RTX,RTX,Raytheon Technologies Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:SBAC,SBAC,SBA Communications Corporation,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:SBUX,SBUX,Starbucks Corporation,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:SCHW,SCHW,The Charles Schwab Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:SHW,SHW,The Sherwin-Williams Company,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:SNAP,SNAP,Snap Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:SNP,SNP,China Petroleum & Chemical Corporation,OTC,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:SO,SO,The Southern Company,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:SPG-PJ,SPG-PJ,"Simon Property Group, Inc.",NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:SRE,SRE,Sempra,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:T,T,AT&T Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:TGT,TGT,Target Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:TM,TM,Toyota Motor Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:TMO,TMO,Thermo Fisher Scientific Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:TMUS,TMUS,"T-Mobile US, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:TSLA,TSLA,"Tesla, Inc.",Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:TSM,TSM,Taiwan Semiconductor Manufacturing Company Limited,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:TTE,TTE,TotalEnergies SE,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:UL,UL,Unilever PLC,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:UNH,UNH,UnitedHealth Group Incorporated,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:UNP,UNP,Union Pacific Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:UPS,UPS,"United Parcel Service, Inc.",NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:V,V,Visa Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:VALE,VALE,Vale S.A.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:VZ,VZ,Verizon Communications Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:WELL,WELL,Welltower Inc.,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:WFC-PL,WFC-PL,Wells Fargo & Company,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:WMT,WMT,Walmart Inc.,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:XEL,XEL,Xcel Energy Inc.,Nasdaq,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
+CMIN-US:XOM,XOM,Exxon Mobil Corporation,NYSE,2018-01-01,2021-12-31,CMIN-Dataset unified master,mapped
